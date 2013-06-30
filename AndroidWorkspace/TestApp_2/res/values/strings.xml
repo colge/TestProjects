@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sensor Reader</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Sensors</string>
+    <string name="action_settings">1. Settings</string>
+    <string name="action_settings2">2. Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">Sensor Readings</string>
+    <string name="txtMsg_label">Hello world!</string>
+
+</resources>
